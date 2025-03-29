@@ -118,6 +118,12 @@ export const QueryInput = () => {
           onClick={()=>{setOpenModal(true)}}>
              View Previous Queries
        </button>
+
+       <button 
+          className='w-full sm:w-[20%] md:w-[40%] p-2 rounded-md bg-[#2a2a2a] hover:bg-[#333333] text-[#6f6f6f] hover:text-[#f8f9fa] shadow-md shadow-[#00000033]'
+          onClick={()=>{setSearchInput("")}}>
+             Clear Search
+       </button>
       </div>
 
    <div className='flex flex-col rounded-md w-full bg-[#2a2a2a] shadow-lg shadow-[#00000040] '>
