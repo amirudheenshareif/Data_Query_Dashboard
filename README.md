@@ -33,3 +33,6 @@ This tool is developed to empower non-technical teams by enabling them to ask co
 
 **Data Visualization:** Recharts.
 
+## Demo
+
+https://github.com/user-attachments/assets/448635e5-83a3-43b9-9ede-4af9d2cf9ea9
