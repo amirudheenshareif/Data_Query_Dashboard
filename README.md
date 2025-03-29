@@ -35,4 +35,4 @@ This tool is developed to empower non-technical teams by enabling them to ask co
 
 ## Demo
 
-https://github.com/user-attachments/assets/aea1aa84-73a0-42cf-ba6f-449e3991263b
+https://github.com/user-attachments/assets/def61447-31c5-4c29-855a-b848feeb3efd
