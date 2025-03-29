@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+#root {
+    display: flex;
+    flex-direction: column;
+    background-color: #1f1f1f;
+    min-height: 100vh; /* Ensures the root container takes full height */
+}
