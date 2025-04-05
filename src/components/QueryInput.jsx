@@ -100,7 +100,7 @@ export const QueryInput = () => {
      :(
         <>
         <h1 class="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold text-[#f8f9fa] text-center p-4">
-    InsightChart - AI That Turns Words into Data Visuals
+    AskMetrics - AI That Turns Words into Data Visuals
 </h1>
 
         <div className='flex flex-col sm:flex-row w-full gap-4  '>
